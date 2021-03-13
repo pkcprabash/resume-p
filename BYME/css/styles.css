@@ -1,0 +1,156 @@
+body{
+  margin: 0px;
+  background: url(https://i.pinimg.com/originals/66/46/32/664632aada8327014297b719b228f4f2.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.logo{
+  height: 20px;
+  padding: 10px;
+  background-color: #bbbbbb;
+  font-family: 'Sacramento', cursive;
+  color: #f6f6f6;
+  font-size: 1.5rem;
+  border-style: groove;
+}
+
+.content{
+  background-color: #5b5b5b;
+  height: 25px;
+  padding: 10px 30px;
+  text-align: center;
+  color: #f6f6f6;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+  border-style: groove;
+
+}
+.Home{
+  display: inline;
+  margin: 0px 30px;
+}
+
+.Projects{
+  display: inline;
+  margin: 0px 30px;
+}
+
+.Skills{
+  display: inline-block;
+  margin: 0px 30px;
+}
+
+.Contacts{
+  display: inline-block;
+  margin: 0px 30px;
+}
+
+.separate{
+
+}
+
+.detailContent{
+  text-align: center;
+
+}
+
+.detail{
+  width: 50%;
+  height: 40vh;
+  padding-top: 100px;
+  margin: 0px auto;
+
+}
+
+h1 {
+  color: #374045;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #374045;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.end{
+  margin-top: 8px;
+  border: dotted #EAF6F6 8px;
+  border-bottom: none;
+  width: 10%;
+  margin-bottom: 20px;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  color: #374045;
+}
+
+.bottom-container {
+  text-align: center;
+  margin-top: 0px;
+}
+
+a{
+  color: #f6f6f6;
+}
+
+a:hover {
+  color: #bbbbbb;
+}
+
+.footer-link{
+  color: #374045;
+}
+
+.middle-container {
+  text-align: center;
+}
+
+.code-img {
+  width: 35%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chilli-img {
+  width: 35%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+p {
+  line-height: 2;
+}
+
+ul{
+  line-height: 2;
+}
+
+.Proj-h2{
+  margin: 0;
+}
+
+.skill-div{
+  margin:auto;
+  padding-left: 40%;
+}
